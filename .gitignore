@@ -1,0 +1,12 @@
+# Obsidian - 不提交本地配置和垃圾箱
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+*.excalidraw.md
+
+# 手机不用的插件（手机上只保留 DataView、Spaced Repetition、Tasks）
+.obsidian/plugins/*
+!.obsidian/plugins/dataview/
+!.obsidian/plugins/obsidian-spaced-repetition/
+!.obsidian/plugins/obsidian-tasks-plugin/
